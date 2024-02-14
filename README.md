@@ -1,12 +1,10 @@
-![Header](./github-header-image.png)
-<!-- <h1 align="center">Hi 👋, I'm Harsh Agarwal</h1> -->
-<h3 align="center">A Computer Science undergrad @IIT Jammu</h3>
+<h3 align="center">Harsh Agarwal - undergrad @IIT Jammu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkagrwl&label=Profile%20views&color=0e75b6&style=flat" alt="hkagrwl" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Operating System, DevOps, WebAssembly**
+- 🌱 I’m currently learning **Computer Networks, DevOps,Machine Learning**
 
 - 📫 How to reach me **harshkumaragarwal2003@gmail.com**
 
